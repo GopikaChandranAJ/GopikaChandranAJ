@@ -1,7 +1,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/GopikaChandranAJ)
-# ![gopika intro](./svgGif.svg)
+# ![gopika intro](SvgGif.svg)
 ### Connect: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopika-chandran-a-j-137167229)
 [![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopikachandranaj@gmail.com)
